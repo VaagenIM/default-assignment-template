@@ -1,7 +1,9 @@
 # ✨ Prosjektnavn
 
 > [!IMPORTANT]
-> **README – endre denne filen!**
+> **README.md – endre denne filen!**
+>
+> Behold `.gitignore` og `.gitattributes` i prosjektet.
 
 > [!NOTE]
 > Denne filen er en plassholder. Skriv en kort beskrivelse av prosjektet her.
@@ -13,3 +15,11 @@
 > - Hvordan prosjektet kjøres
 >
 > Legg gjerne til annen informasjon som er relevant for prosjektet.
+
+## 📁 Viktige filer i repoet
+
+> [!TIP]
+> Disse filene er en del av grunnoppsettet og bør beholdes:
+>
+> - `.gitignore` – hindrer at midlertidige filer, lokale miljøer og hemmeligheter blir lagt til i Git.
+> - `.gitattributes` – sørger blant annet for konsistent håndtering av linjeskift på tvers av operativsystemer.
